@@ -5,7 +5,7 @@ I didn't ask you to document hello_world.py or dice_roller.py, so we will start 
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [Python Program 01 -- Calculator](#Python Program 01 -- Calculator)
+* [Python Program 01 -- Calculator](#PythonProgram01--Calculator)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [NextAssignmentGoesHere](#NextAssignment)
