@@ -4,7 +4,6 @@ This repository will actually serve as a aid to help you get started with your o
 I didn't ask you to document hello_world.py or dice_roller.py, so we will start with calculator.py.
 
 ## Table of Contents
-* [Table of Contents](#TableOfContents)
 * [Basics](#Basics)
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
@@ -54,87 +53,24 @@ Spicy version:
 
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here.
+N/A
 
 ### Reflection
+
+This assignment was relatively simple, but was challenging because I had not coded in Python for several months. I learned that I could import parts of toolboxes without importing the entire thing, but that changes the syntax of how I call the function later. I also learned about using a while loop to control whether a user wants to exit the program. For the spicy version, I needed to use nested loops. Python determines what is inside a loop by the indent level of each line of text, rather than brackets like some other coding styles. That means I need to be really careful with my tabs!
+
 
 ## Python_Calculator
 
-## Hello_CircuitPython
+### Assignment Description
 
-### Description & Code
-Description goes here
+Your turn! You will be writing a section of readme like this for all subsequent assignments.
 
-Here's how you make code look like code:
+### Evidence 
 
-```python
-Code goes here
-
-```
-
-
-### Evidence
-Pictures / Gifs of your work should go here.  You need to communicate what your thing does.
-
-### Wiring
-Make an account with your google ID at [tinkercad.com](https://www.tinkercad.com/learn/circuits), and use "TinkerCad Circuits to make a wiring diagram."  It's really easy!  
-Then post an image here.   [here's a quick tutorial for all markdown code, like making links](https://guides.github.com/features/mastering-markdown/)
-
-### Reflection
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person.
-
-
-
-
-## CircuitPython_Servo
-
-### Description & Code
-
-```python
-Code goes here
-
-```
-
-### Evidence
 
 ### Wiring
 
-### Reflection
-
-
-
-
-## CircuitPython_LCD
-
-### Description & Code
-
-```python
-Code goes here
-
-```
-
-### Evidence
-
-### Wiring
-
-### Reflection
-
-
-
-
-
-## NextAssignment
-
-### Description & Code
-
-```python
-Code goes here
-
-```
-
-### Evidence
-
-### Wiring
 
 ### Reflection
 
