@@ -5,20 +5,35 @@ I didn't ask you to document hello_world.py or dice_roller.py, so we will start 
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
+* [Basics](#Basics)
 * [Python_Calculator](#Python_Calculator)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
-## Python_Calculator
+## Basics
+You can delete this section from your own personal readme. 
 
-Assignment Description: Write your assignment description here. It should be at least a few sentences. 
+### Assignment Description
 
-Reflection: what did you learn in this assignment? What did you get stuck on? What do you want to make sure that future you remembers?
+Write your assignment description here. It should be a few sentences.
+
+### Evidence 
+
+Pictures / Gifs of your work should go here.  You need to communicate what your thing does. For code only assignments like the Python calculator, include a screenshot of the output of the code.
+
+### Wiring
+
+This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here.
+
+### Reflection
+
+What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience?  Your ultimate goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Thins about your audience for this one, which may be "future you" when you realize you need some of this code in three months, me, or your college admission committee!
 
 ** Don't forget to COMMENT YOUR CODE in github!**
 
+## Python_Calculator
 
 ## Hello_CircuitPython
 
