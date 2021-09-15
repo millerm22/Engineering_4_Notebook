@@ -5,13 +5,13 @@ I didn't ask you to document hello_world.py or dice_roller.py, so we will start 
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
-* [Python Program 01 Calculator](#PythonProgram01Calculator)
+* [Python_Calculator](#Python_Calculator)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
 * [NextAssignmentGoesHere](#NextAssignment)
 ---
 
-## Python Program 01 -- Calculator
+## Python_Calculator
 
 Assignment Description: Write your assignment description here. It should be at least a few sentences. 
 
