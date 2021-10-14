@@ -7,6 +7,7 @@ I didn't ask you to document hello_world.py or dice_roller.py. I'll start off wi
 * [Basics](#Basics)
 * [Python_Dice_Roller](#PythonDiceRoller)
 * [Python_Calculator](#Python_Calculator)
+* [CAD_Swing_Arm](#CAD_Swing_Arm)
 ---
 
 ## Basics
@@ -57,7 +58,7 @@ N/A
 This assignment was relatively simple, but was challenging because I had not coded in Python for several months. I learned that I could import parts of toolboxes without importing the entire thing, but that changes the syntax of how I call the function later. I also learned about using a while loop to control whether a user wants to exit the program. For the spicy version, I needed to use nested loops. Python determines what is inside a loop by the indent level of each line of text, rather than brackets like some other coding styles. That means I need to be really careful with my tabs!
 
 
-## CAD: Swing Arm 
+## CAD_Swing_Arm 
 
 ### Assignment Description
 
