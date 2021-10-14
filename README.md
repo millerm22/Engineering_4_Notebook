@@ -57,16 +57,17 @@ N/A
 This assignment was relatively simple, but was challenging because I had not coded in Python for several months. I learned that I could import parts of toolboxes without importing the entire thing, but that changes the syntax of how I call the function later. I also learned about using a while loop to control whether a user wants to exit the program. For the spicy version, I needed to use nested loops. Python determines what is inside a loop by the indent level of each line of text, rather than brackets like some other coding styles. That means I need to be really careful with my tabs!
 
 
-## Python_Calculator
+## CAD: Swing Arm 
 
 ### Assignment Description
 
-Your turn! You will be writing a section of readme like this for all subsequent assignments.
+This assignment asked me to replicate a swing arm part from a set of drawings. The assignment style is similar to a portion of the Onshape Associate Certification test.
 
 ### Evidence 
 
 
-### Wiring
+### Part Link
+[Swing Arm Part](https://cvilleschools.onshape.com/documents/560f518c7146c0afa18c51b2/w/1c9597ad9f27f3add1f7628a/e/a23b437cbbe6d280d9ae8147?renderMode=0&uiState=61679087c315473a0613d09d)
 
 
 ### Reflection
