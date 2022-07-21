@@ -27,8 +27,7 @@ Give me a link to your code. [Something like this](https://github.com/millerm22/
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
-
-
+&nbsp
 
 ## Onshape_Assignment_Template
 
@@ -48,3 +47,12 @@ Take a nice screenshot of your Onshape document.
 
 What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
 
+&nbsp
+
+## Media Test
+
+Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
+
+### Test Image
+
+### Test GIF
